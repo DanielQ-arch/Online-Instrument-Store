@@ -6,3 +6,15 @@ h1{
 button{
     color: red;
 }
+label{
+    color: red;
+}
+h2{
+    text-align:center;
+    text-decoration-line: underline
+}
+.search{
+    width: max-content;
+    display: flex;
+    align-items: center
+}
