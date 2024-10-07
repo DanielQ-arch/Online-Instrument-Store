@@ -1,3 +1,8 @@
 h1{
-    color:red;
+   background-color: red;
+   color: white;
+}
+
+button{
+    color: red;
 }
