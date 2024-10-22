@@ -1,10 +1,20 @@
 h1{
    background-color: red;
    color: white;
+   
+   padding-left: 8px;
+   padding-right: 20px;
+   padding-top: 8px;
+   padding-bottom: 80px;
 }
 
 button{
     color: red;
+    background: rgba(58, 58,58, 0.062);
+    padding: 8px;
+    border-radius: 15px;
+    outline:none;
+    border:none
 }
 label{
     color: red;
@@ -13,8 +23,42 @@ h2{
     text-align:center;
     text-decoration-line: underline
 }
+
 .search{
     width: max-content;
     display: flex;
-    align-items: center
+    align-items: center;
+    background: rgba(58, 58, 58, 0.062);
+    padding: 14px;
+    border-radius: 28px;
+    position
+}
+
+.search-input{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    margin-left: 14px;
+    outline:none;
+    border:none;
+    background: transparent;
+
+}
+.Contacts{
+    background-color: gainsboro;
+
+}
+
+.Sale{
+color: red;
+font-size: 70px;
+margin-left: 70px;
+margin-top: 30px;
+text-align: center;
+}
+.zues{
+    font-weight: bold;
+}
+.img-3{
+     margin-left: 30px;
 }
