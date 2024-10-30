@@ -1,10 +1,18 @@
-label{
-    color: white;
-   
+
+
+.top-box2{
+height: 200px;
+width: 100%;
+background-color: lightpink;
 }
 
-.top-box{
-    height: 200px;
-    width: 100%;
-    background-color: lightpink;
+.b1{
+  text-decoration: none;
+  color: white;
+  position: relative;
+  top: 80px;
+  left: 100px;
+  font-size: xx-large;
 }
+
+.b2{}
