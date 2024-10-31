@@ -1,5 +1,12 @@
-.top-span{
-    height: 100px;
-    width: 100%;
-    background-color: lightpink;
+.p1{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background-image: url(image.png);
+}
+
+div{
+    height: 10px;
+    width: 10px;
+    background-color: aquamarine;
 }
