@@ -11,7 +11,35 @@ background-color: lightpink;
   color: white;
   position: relative;
   top: 80px;
-  left: 100px;
+  left:170px;
   font-size: xx-large;
 }
 
+.b2{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 80px;
+    left: 280px;
+    font-size: xx-large;
+}
+
+.b3{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 80px;
+    left: 400px;
+    font-size: xx-large;
+
+}
+
+.b4{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    top: 80px;
+    left:500px;
+    font-size: xx-large;
+
+}
