@@ -31,8 +31,6 @@
 
 }
 
-
-
 .popup .form h2{
     text-align: center;
     color: #222;
@@ -44,7 +42,38 @@
     margin: 15px 0px;
 }
 
+.popup .form .form-element label{
+    font-size: 14px;
+    color: #222;
+}
 
+.popup .form .form-element input[type="text"],
+.popup .form .form-element input[type="password"]{
+    margin-top: 5px;
+    display: block;
+    width: 100px;
+    padding: 10px;
+    outline: none;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+}
+
+.popup .form.form-element input[type="checkbox"]{
+    margin-right: 5px;
+
+}
+
+.popup .form .form-element button{
+    width: 100px;
+    height: 40px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    background: #bb0f0f;
+    color: #eee;
+    border-radius: 10px;
+    cursor: pointer;
+}
 
 
 
