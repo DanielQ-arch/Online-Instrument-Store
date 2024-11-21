@@ -3,19 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles4filters.css">
+    <link rel="stylesheet" href="login.css">
     <title>Document</title>
 </head>
 <body>
-    <label>
-        <b>Username:</b><input type="username" placeholder="Enter Username" name="username">
-     </label>
- </form>
-
- <form>
-     <label>
-        <b>Password:</b><input type="password" placeholder="Enter Password" name="password">
-     </label>
- </form>
+  
+   <div class="popup">
+     <div class="close-btn">&times;</div>
+     <div class="form">
+         <h2>Log In</h2>
+         <div class="form-element">
+            <label for="email">Email</label>
+            <input type="text"id="email"placeholder="Enter Email">
+         </div>
+         <div class="form-element">
+            <label form="password">Password</label> 
+            <input type="password"id="password" placeholder="Enter Password">
+         </div>
+         <div class="form-element">
+            <input type="checkbox" id="remember-me">
+            <label form="remember-me">Remember Me</label>
+         </div>
+         <div class="form-element">
+            <button>Sign In</button>
+         </div>
+        </div>
+   </div>
 </body>
 </html>
