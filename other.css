@@ -9,27 +9,21 @@
     font-size: xx-large;
 }
 
-.product-11{
+.product-21{
     position: relative;
     top: 100px;
     left: 40px;
 
 }
-.product-12{
+
+.product-31{
     position: relative;
-    top: -245px;
+    top: -345px;
     left: 400px;
 }
 
-.product-13 {
+.product-51 {
     position: relative;
-    top: -55px;
-    left: 40px;
-}
-
-.product-14{
-    position: relative;
-    top: -400px;
-left: 400px;
-
+    top: -325px;
+    left: -400px;
 }
