@@ -162,6 +162,32 @@ img{
     color: white;
 }
 
+
+
+.Item4sale3{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    width: 270px;
+}
+
+.Card3{
+    box-shadow: 2px 5px 15px 2px gray;
+    padding: 10px;
+    text-align:center;
+}
+
+.image3{
+    height: 270px;
+    width: 270;
+    display: flex;
+}
+
+.Card3:hover{
+    background-color: red;
+    color: white;
+}
+
 .Items4Sale{
     display: flex;
     align-items: center;
